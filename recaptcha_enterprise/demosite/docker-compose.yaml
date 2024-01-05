@@ -14,7 +14,6 @@
 
 # This file is only used for packaging and deployment purposes.
 
-version: "3"
 services:
   livereload:
     image: demosite-livereload
